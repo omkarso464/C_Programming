@@ -4,7 +4,7 @@
  * Description   : Checks if a number is divisible by 5
  * Input         : Integer value
  * Output        : Boolean value
- * Author        : Omkar Sonawane 
+ * Author        : Omkar Santosh Sonawane 
  * Date          : 20/10/2026
  *
  **************************************************/

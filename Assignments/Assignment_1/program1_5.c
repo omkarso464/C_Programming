@@ -4,7 +4,7 @@
  * Description   : Accepts a number and prints that many asterisks
  * Input         : Integer value
  * Output        : "*"
- * Author        : Omkar Sonawane 
+ * Author        : Omkar Santosh Sonawane 
  * Date          : 20/10/2026
  *
  **************************************************/

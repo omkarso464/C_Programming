@@ -5,7 +5,7 @@
  * Description   : Divides two numbers and returns the result
  * Input         : Two integers (iNo1, iNo2)
  * Output        : Integer value
- * Author        : Omkar Sonawane 
+ * Author        : Omkar Santosh Sonawane 
  * Date          : 20/10/2026
  *
  **************************************************/

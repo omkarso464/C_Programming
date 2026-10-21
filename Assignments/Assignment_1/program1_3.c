@@ -4,7 +4,7 @@
  * Description   : Displays numbers from 5 to 1
  * Input         : None
  * Output        : None
- * Author        : Omkar Sonawane 
+ * Author        : Omkar Santosh Sonawane 
  * Date          : 20/10/2026
  *
  **************************************************/
