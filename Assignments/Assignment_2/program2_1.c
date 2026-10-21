@@ -5,11 +5,11 @@
  * Input         : Integer value
  * Output        : "*"
  * Author        : Omkar Santosh Sonawane 
- * Date          : 20/10/2026
+ * Date          : 21/10/2026
  *
  **************************************************/
 
-
+#include<stdio.h>
 
 void Display(int iNo)
 {
