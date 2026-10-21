@@ -1,9 +1,9 @@
 /**************************************************
  *
  * Function Name : Display
- * Description   : Displays
+ * Description   : Displays "Hello" if the input number is less than 10, otherwise displays "Demo"
  * Input         : Integer value
- * Output        : "*"
+ * Output        : "Hello" or "Demo"
  * Author        : Omkar Santosh Sonawane 
  * Date          : 20/10/2026
  *

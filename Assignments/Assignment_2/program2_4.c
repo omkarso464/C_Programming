@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : Display
+ * Description   : Displays the input number based on the frequency provided
+ * Input         : Integer value and frequency
+ * Output        : The input number repeated a specified number of times
+ * Author        : Omkar Santosh Sonawane 
+ * Date          : 21/10/2026
+ *
+ **************************************************/
+
 #include<stdio.h>
 
 void Display( int iNo, int iFrequency)
