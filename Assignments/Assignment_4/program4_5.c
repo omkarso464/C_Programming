@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckDivisibility
+ * Description   : Checks if a number is divisible by 5
+ * Input         : Integer value
+ * Output        : Whether the number is divisible by 5
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckLeapYear
+ * Description   : Checks if a year is a leap year
+ * Input         : Integer value (year)
+ * Output        : Whether the year is a leap year
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

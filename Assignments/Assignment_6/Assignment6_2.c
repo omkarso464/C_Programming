@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckAdmission
+ * Description   : Checks if a student is eligible for admission
+ * Input         : Float value (marks) and integer value (age)
+ * Output        : Whether the student is eligible for admission
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

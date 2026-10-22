@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckNumber
+ * Description   : Checks if a number is positive, negative, or zero
+ * Input         : Integer value
+ * Output        : The nature of the number
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+    
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckEvenOdd
+ * Description   : Checks if a number is even or odd
+ * Input         : Integer value
+ * Output        : Whether the number is even or odd
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

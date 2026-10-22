@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckTriangle
+ * Description   : Checks if the given sides form a valid triangle
+ * Input         : Three integer values (sides)
+ * Output        : Whether the sides form a valid triangle
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

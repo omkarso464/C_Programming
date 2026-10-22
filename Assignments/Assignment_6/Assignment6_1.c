@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CalculateElectricityBill
+ * Description   : Calculates the electricity bill based on the units consumed
+ * Input         : Integer value (units)
+ * Output        : The calculated electricity bill
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

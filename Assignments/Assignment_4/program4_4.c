@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CheckVotingEligibility
+ * Description   : Checks if a person is eligible for voting
+ * Input         : Integer value (age)
+ * Output        : Whether the person is eligible for voting
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

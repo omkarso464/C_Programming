@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : DisplayGrade
+ * Description   : Displays the grade based on the marks
+ * Input         : Float value (marks)
+ * Output        : The grade corresponding to the marks
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

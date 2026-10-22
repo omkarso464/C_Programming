@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CalculateDiscount
+ * Description   : Calculates the discount based on the purchase amount
+ * Input         : Float value (amount)
+ * Output        : The calculated discount and final amount
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

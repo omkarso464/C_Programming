@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : FindGreatest
+ * Description   : Finds the greatest of three numbers
+ * Input         : Three integer values
+ * Output        : The greatest of the three numbers
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

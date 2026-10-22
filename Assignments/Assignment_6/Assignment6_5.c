@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : CalculateBonus
+ * Description   : Calculates the bonus based on the salary and years of service
+ * Input         : Float value (salary) and integer value (years)
+ * Output        : The calculated bonus
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 22/10/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
