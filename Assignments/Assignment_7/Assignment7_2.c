@@ -5,7 +5,7 @@
  * Input         : Integer value (iNo)
  * Output        : The sequence of numbers printed on the console
  * Author        : Omkar Santosh Sonawane
- * Date          : 1/11/2026
+ * Date          : 2/11/2026
  *
  **************************************************/
 
