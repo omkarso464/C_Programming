@@ -1,5 +1,16 @@
+/**************************************************
+ *
+ * Function Name : RangeSum
+ * Description   : Calculates the sum of numbers in a given range
+ * Input         : Integer values (iStart, iEnd)
+ * Output        : The sum of numbers in the specified range
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 4/11/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 
 int RangeSum(int iStart, int iEnd)
 {
@@ -40,5 +51,5 @@ int main()
         printf("Addition is %d\n", iRet);
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }

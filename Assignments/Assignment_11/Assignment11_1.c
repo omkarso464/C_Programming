@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : RangeDisplay
+ * Description   : Displays numbers in a given range
+ * Input         : Integer values (iStart, iEnd)
+ * Output        : Numbers in the specified range
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 4/11/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

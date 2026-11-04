@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : RangeSumEven
+ * Description   : Calculates the sum of even numbers in a given range
+ * Input         : Integer values (iStart, iEnd)
+ * Output        : The sum of even numbers in the specified range
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 4/11/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : RangeDisplayRev
+ * Description   : Displays numbers in a given range in reverse order
+ * Input         : Integer values (iStart, iEnd)
+ * Output        : Numbers in the specified range in reverse order
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 4/11/2026
+ *
+ **************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
