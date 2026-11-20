@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : CountCapital
+ * Description   : This function counts the number of capital letters in a given string.
+ * Input         : A string
+ * Output        : The count of capital letters in the string
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

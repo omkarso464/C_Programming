@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : ChkSpecial
+ * Description   : This function checks whether a given character is a special character (one of !, @, #, $, %, ^, &, *).
+ * Input         : A character
+ * Output        : TRUE if the character is a special character, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

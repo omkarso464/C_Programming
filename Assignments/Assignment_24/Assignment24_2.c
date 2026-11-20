@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : CountChar
+ * Description   : This function counts the frequency of a specific character in a string.
+ * Input         : A string and a character
+ * Output        : The frequency of the specified character in the string
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

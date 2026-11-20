@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : DisplaySchedule
+ * Description   : This function displays the exam schedule based on the division provided.
+ * Input         : A character representing the division (A, B, C, D)
+ * Output        : The exam schedule for the specified division
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

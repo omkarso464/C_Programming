@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : ChkVowel
+ * Description   : This function checks whether a given string contains any vowels (a, e, i, o, u).
+ * Input         : A string
+ * Output        : TRUE if the string contains at least one vowel, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

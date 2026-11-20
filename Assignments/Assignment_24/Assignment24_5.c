@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : StrRevX
+ * Description   : This function reverses a string in place.
+ * Input         : A string
+ * Output        : The modified string with characters in reverse order
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<string.h>

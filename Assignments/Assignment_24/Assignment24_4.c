@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : LastChar
+ * Description   : This function finds the last occurrence of a specific character in a string.
+ * Input         : A string and a character
+ * Output        : The index of the last occurrence of the specified character in the string, or -1 if not found
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

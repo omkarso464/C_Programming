@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : ChkAlpha
+ * Description   : This function checks whether a given character is an alphabet (A-Z or a-z).
+ * Input         : A character
+ * Output        : TRUE if the character is an alphabet, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

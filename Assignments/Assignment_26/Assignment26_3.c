@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : Display
+ * Description   : This function displays a sequence of lowercase letters from the input character to 'a' in reverse order.
+ * Input         : A character
+ * Output        : A sequence of characters based on the input character
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,3 +1,14 @@
+/**************************************************
+ *
+ * Function Name : ChkChar
+ * Description   : This function checks if a character is present in a string.
+ * Input         : A string and a character
+ * Output        : TRUE if the character is found, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 

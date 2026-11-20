@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : ChkDigit
+ * Description   : This function checks whether a given character is a digit (0-9).
+ * Input         : A character
+ * Output        : TRUE if the character is a digit, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : FirstChar
+ * Description   : This function finds the first occurrence of a specific character in a string.
+ * Input         : A string and a character
+ * Output        : The index of the first occurrence of the specified character in the string, or -1 if not found
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

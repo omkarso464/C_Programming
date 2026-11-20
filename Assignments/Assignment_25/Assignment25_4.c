@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : ChkSmall
+ * Description   : This function checks whether a given character is a small case letter (a-z).
+ * Input         : A character
+ * Output        : TRUE if the character is a small case letter, FALSE otherwise
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

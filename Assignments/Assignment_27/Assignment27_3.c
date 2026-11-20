@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : Difference
+ * Description   : This function calculates the difference between the number of lowercase and uppercase letters in a given string.
+ * Input         : A string
+ * Output        : The difference between the count of lowercase and uppercase letters in the string
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>

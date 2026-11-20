@@ -1,3 +1,13 @@
+/**************************************************
+ *
+ * Function Name : DisplayASCII
+ * Description   : This function displays the ASCII values of characters from 0 to 255 in decimal, hexadecimal, and octal formats.
+ * Input         : None
+ * Output        : The ASCII values of characters from 0 to 255 in decimal, hexadecimal, and octal formats
+ * Author        : Omkar Santosh Sonawane
+ * Date          : 20/11/2026
+ *
+ **************************************************/
 
 #include<stdio.h>
 #include<stdlib.h>
